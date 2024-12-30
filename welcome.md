@@ -1,5 +1,5 @@
 layout: page
 title: "welcome"
-permalink: /URL-PATH/welcome
+permalink: /Obinna-pet-project/welcome
 
 print("Welcome here")
