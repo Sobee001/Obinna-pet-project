@@ -1,3 +1,7 @@
+layout: page
+title: "blackjack-game"
+permalink: /blackjack
+
 import random
 from art import logo
 
